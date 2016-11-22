@@ -1,5 +1,6 @@
 [
   {
+    "shape": "Pear",
     "url": "http://www.website.com/diamond?no=123123123",
     "certificateLab": "GIA",
     "certificateURL": "http://pics.website.com/certs/5166753175.pdf?params=Y291bnRyeT1VU0EmcHJvZHVjdD1CTiZwaG9uZT0xKzg4OC01NjUtNzY0MSZsaW5rPWh0dHAlM0ElMkYlMkZ3d3cuYmx1ZW5pbGUuY29tJTJGX0xEMDY5NDU5MDEmY3VycmVuY3k9VVNEJmxhYj1naWEmc2t1PUxEMDY5NDU5MDEm",
@@ -39,6 +40,7 @@
     "id": "a111d6be6c1c090c"
   },
   {
+    "shape": "Round",
     "url": "http://www.website.com/diamond?no=abcabcabc",
     "certificateLab": "GIA",
     "certificateURL": "http://pics.website.com/certs/5166753175.pdf?params=Y291bnRyeT1VU0EmcHJvZHVjdD1CTiZwaG9uZT0xKzg4OC01NjUtNzY0MSZsaW5rPWh0dHAlM0ElMkYlMkZ3d3cuYmx1ZW5pbGUuY29tJTJGX0xEMDY5NDU5MDEmY3VycmVuY3k9VVNEJmxhYj1naWEmc2t1PUxEMDY5NDU5MDEm",
@@ -78,6 +80,7 @@
     "id": "a1110068628ff5b0"
   },
   {
+    "shape": "Heart",
     "url": "abc.com/xyz",
     "imagesURL": [
       ""
